@@ -25,3 +25,5 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 > localhost:8080/#/parentChild 组件之间通信效果
 
 > localhost:8080/#/barrage 为弹幕效果
+
+
